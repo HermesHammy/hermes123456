@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hermes123456
+-
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning C++.
 
